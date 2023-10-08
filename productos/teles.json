@@ -1,0 +1,62 @@
+[
+    {
+        "code":"01",
+        "nombre":"Samsung Series 7",
+        "modelo":"UN50NU7090",
+        "precio":"$500.000",
+        "imagen":"./img/samsungS7.webp",
+        "imagen2":"./img/samsungS7Back.webp",
+        "imagen3":"./img/samsungS7Side.webp",
+        "descripcion":"La Samsung Smart TV Series 7 es una impresionante televisión que combina diseño elegante con tecnología de vanguardia. Con una pantalla de alta resolución, esta TV ofrece una calidad de imagen nítida y vibrante que te sumerge en tus programas y películas favoritas. Su diseño delgado y moderno se adapta perfectamente a cualquier decoración de sala.Esta Smart TV está equipada con el sistema operativo Tizen, que proporciona acceso a una amplia variedad de aplicaciones de streaming como Netflix, Amazon Prime Video y Disney+. Además, cuenta con asistentes de voz integrados, como Bixby y compatibilidad con asistentes virtuales como Alexa y Google Assistant, lo que facilita el control de la televisión mediante comandos de voz.La Serie 7 de Samsung también incluye múltiples puertos HDMI y USB para conectar dispositivos externos, como consolas de videojuegos y reproductores de Blu-ray. Su capacidad de conectividad Wi-Fi permite disfrutar de contenido en línea sin problemas. En resumen, la Samsung Smart TV Series 7 ofrece una experiencia de entretenimiento completa con un diseño atractivo y las últimas características tecnológicas."
+    },
+    {
+        "code":"02",
+        "nombre":"LG ThinkQ",
+        "modelo":"LG 50UQ90006LA",
+        "precio":"$450.000",
+        "imagen":"./img/lgThinkQ.jpg",
+        "imagen2":"./img/lgThinkQBack.jpg",
+        "imagen3":"./img/lgThinkQSide.jpg",
+        "descripcion":"La Smart TV LG ThinQ de 50 pulgadas es una opción impresionante para el entretenimiento en el hogar. Con su pantalla de 50 pulgadas, ofrece una experiencia visual inmersiva con colores vibrantes y una alta resolución. Su diseño elegante y delgado se adapta a cualquier decoración de sala y puede montarse en la pared o colocarse en un soporte.Esta Smart TV utiliza el sistema operativo webOS de LG, que es conocido por ser fácil de usar y proporcionar un acceso rápido y fluido a una variedad de aplicaciones de streaming como Netflix, YouTube y Hulu. Además, cuenta con la tecnología ThinQ AI de LG, que permite controlar la TV con comandos de voz y conectarla a otros dispositivos inteligentes en tu hogar.La conectividad es una ventaja clave de esta TV, ya que incluye múltiples puertos HDMI y USB para conectar consolas de videojuegos, reproductores de medios y otros dispositivos. También es compatible con Wi-Fi, lo que facilita la transmisión de contenido en línea y la navegación por la web. En general, la Smart TV LG ThinQ de 50 pulgadas ofrece una experiencia de visualización de alta calidad con características inteligentes que la hacen versátil y conveniente para el uso diario."
+    },
+    {
+        "code":"03",
+        "nombre":"TCL Serie 6",
+        "modelo":"55R635",
+        "precio":"$250.000",
+        "imagen":"./img/tclSerie6.png",
+        "imagen2":"./img/tclSerie6Back.png",
+        "imagen3":"./img/tclSerie6Side.png",
+        "descripcion":"La TCL 6-Series es una línea de televisores de alta gama que ofrece una experiencia de visualización excepcional gracias a su impresionante calidad de imagen y características avanzadas. Estos televisores suelen contar con una resolución 4K Ultra HD, lo que significa que ofrecen una imagen extremadamente nítida y detallada.Uno de los aspectos más destacados de la serie 6 de TCL es su tecnología de retroiluminación, que suele incluir retroiluminación Mini-LED o QLED. Esto proporciona un control preciso de la luz de fondo y zonas de atenuación local, lo que resulta en negros más profundos y un contraste impresionante.Además, estos televisores son compatibles con múltiples formatos de alto rango dinámico (HDR), como Dolby Vision y HDR10, lo que garantiza colores vibrantes y un rango dinámico amplio para una experiencia visual más inmersiva."
+    },
+    {
+        "code":"04",
+        "nombre":"Samsung Hd 32 T4300",
+        "modelo":"T4300",
+        "precio":"$400.000",
+        "imagen":"./img/samsungt4300.webp",
+        "imagen2":"./img/samsungt4300Back.webp",
+        "imagen3":"./img/samsungt4300Side.webp",
+        "descripcion":"El televisor Samsung HD 32 T4300 es una opción ideal para aquellos que buscan una experiencia de entretenimiento accesible y versátil. Con su pantalla de 32 pulgadas y resolución HD, ofrece imágenes nítidas y colores vibrantes para disfrutar de contenido en alta definición. Además, su tecnología Smart TV basada en el sistema operativo Tizen proporciona acceso a una amplia variedad de aplicaciones de streaming populares, lo que te permite disfrutar de tus programas, películas y series favoritas directamente desde el televisor.El diseño elegante y moderno del Samsung T4300 se adapta bien a cualquier entorno, con biseles delgados que maximizan la pantalla. Con múltiples puertos HDMI y USB, así como conectividad Wi-Fi, puedes conectar tus dispositivos externos fácilmente y navegar por la web de manera sencilla. Algunos modelos también ofrecen control de voz a través de asistentes virtuales para una experiencia aún más conveniente. En resumen, el Samsung HD 32 T4300 es una Smart TV asequible que ofrece una combinación de calidad de imagen, funciones inteligentes y diseño atractivo, lo que la convierte en una excelente opción para tu entretenimiento en casa."
+    },
+    {
+        "code":"05",
+        "nombre":"Philips Series 7000",
+        "modelo":"50PUD7406",
+        "precio":"$381.000",
+        "imagen":"./img/philipsSerie700.webp",
+        "imagen2":"./img/philipsSerie700_2.webp",
+        "imagen3":"./img/philipsSerie700_3.webp",
+        "descripcion":"El compromiso de Philips es brindar nuevas e innovadoras tecnologías. Es por esa razón que se centra en los detalles para poder ofrecer productos que marcan la diferencia y crean una experiencia visual más increíble y auténtica.Con el Smart TV 50PUD7406 vas a acceder a las aplicaciones en las que se encuentran tus contenidos favoritos. Además, podés navegar por Internet, interactuar en redes sociales y divertirte con videojuegos.Viví en 4K:La cantidad de pixeles que ofrece es 4 veces mayor que la Full HD, ¿el resultado? Escenas mucho más realistas y con un nivel de detalle increíble. Ahora vas a conocer una aventura de inmersión que no va a dejar de sorprenderte.Un sonido que te envuelve: Vas a sentir que proviene desde todas las direcciones posibles, lo cual enriquece la percepción del mismo. Los diálogos de tus series de fin de semana o la música de tus cantantes preferidos van a cobrar otro significado."
+    },
+    {
+        "code":"06",
+        "nombre":"Xiaomi MI P1",
+        "modelo":"MKT0538ETC",
+        "precio":"$191.999",
+        "imagen":"./img/xiaomiMIp1.jpg",
+        "imagen2":"./img/xiaomiMIp1Back.jpg",
+        "imagen3":"./img/xiaomiMIp1Side.jpg",
+        "descripcion":"El Xiaomi Mi TV P1 es una impresionante adición a la línea de televisores inteligentes de Xiaomi que combina un diseño elegante con una calidad de imagen excepcional y funciones inteligentes avanzadas. Con una resolución Ultra HD 4K, este televisor ofrece imágenes vívidas y nítidas con una cantidad impresionante de detalles. La tecnología de retroiluminación LED utilizada proporciona un contraste impresionante y una experiencia de visualización envolvente.El sistema operativo PatchWall, basado en Android TV, brinda acceso a una amplia gama de aplicaciones de streaming, juegos y servicios en línea, lo que te permite disfrutar de una variedad de contenido directamente desde el televisor. Además, el Xiaomi Mi TV P1 incluye un control remoto con función de voz que facilita la navegación y la búsqueda de contenido mediante comandos de voz. Este televisor también es compatible con Google Assistant y Chromecast, lo que agrega un nivel adicional de conveniencia.El diseño del Xiaomi Mi TV P1 es moderno y estilizado, con biseles delgados y soportes que complementan cualquier entorno. Con una variedad de tamaños de pantalla disponibles, puedes elegir el que mejor se adapte a tus necesidades y espacio. En resumen, el Xiaomi Mi TV P1 es una excelente opción para aquellos que buscan un televisor inteligente con una calidad de imagen excepcional y funciones avanzadas en un diseño atractivo y moderno."
+    }
+]
